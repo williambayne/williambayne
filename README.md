@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williambayne
 - 👀 I’m interested in many engineering disciplines.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects related to deep learning, visual recognition, embedded etc
+- New Development Languages: R, C# and Java.
+- I’m looking to collaborate on projects related to deep learning, visual recognition, embedded etc
 - 📫 How to reach me ...
 
 <!---
